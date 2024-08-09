@@ -1,3 +1,5 @@
+// https://docs.libuv.org/en/v1.x/guide/eventloops.html#stopping-an-event-loop
+
 #include <stdio.h>
 #include <uv.h>
 
